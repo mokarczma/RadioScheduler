@@ -1,0 +1,16 @@
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\bin\Debug\net9.0\RadioScheduler.Application.deps.json
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\bin\Debug\net9.0\RadioScheduler.Application.dll
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\bin\Debug\net9.0\RadioScheduler.Application.pdb
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\bin\Debug\net9.0\RadioScheduler.Domain.dll
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\bin\Debug\net9.0\RadioScheduler.Domain.pdb
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.csproj.AssemblyReference.cache
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.AssemblyInfoInputs.cache
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.AssemblyInfo.cs
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.csproj.CoreCompileInputs.cache
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.sourcelink.json
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioSch.26979747.Up2Date
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.dll
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\refint\RadioScheduler.Application.dll
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\RadioScheduler.Application.pdb
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Application\obj\Debug\net9.0\ref\RadioScheduler.Application.dll

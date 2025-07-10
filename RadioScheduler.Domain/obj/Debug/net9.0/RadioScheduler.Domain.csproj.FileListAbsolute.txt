@@ -1,0 +1,12 @@
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\bin\Debug\net9.0\RadioScheduler.Domain.deps.json
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\bin\Debug\net9.0\RadioScheduler.Domain.dll
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\bin\Debug\net9.0\RadioScheduler.Domain.pdb
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\RadioScheduler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\RadioScheduler.Domain.AssemblyInfoInputs.cache
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\RadioScheduler.Domain.AssemblyInfo.cs
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\RadioScheduler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\RadioScheduler.Domain.sourcelink.json
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\RadioScheduler.Domain.dll
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\refint\RadioScheduler.Domain.dll
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\RadioScheduler.Domain.pdb
+C:\Users\monika\source\repos\RadioScheduler\RadioScheduler.Domain\obj\Debug\net9.0\ref\RadioScheduler.Domain.dll

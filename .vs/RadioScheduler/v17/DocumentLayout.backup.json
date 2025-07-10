@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|solutionrelative:radioscheduler.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.application\\interfaces\\ishowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|solutionrelative:radioscheduler.application\\interfaces\\ishowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8E592-9A88-4117-BDA5-0AA2D88E6E02}|RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.infrastructure\\repositories\\showrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8E592-9A88-4117-BDA5-0AA2D88E6E02}|RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj|solutionrelative:radioscheduler.infrastructure\\repositories\\showrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.application\\commands\\createshow\\createshowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|solutionrelative:radioscheduler.application\\commands\\createshow\\createshowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.application\\commands\\createshow\\createshowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|solutionrelative:radioscheduler.application\\commands\\createshow\\createshowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.application\\radioscheduler.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A1207B4-56E9-4537-AD63-4ABAD00D926C}|RadioScheduler.Application\\RadioScheduler.Application.csproj|solutionrelative:radioscheduler.application\\radioscheduler.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.api\\radioscheduler.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|solutionrelative:radioscheduler.api\\radioscheduler.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.api\\radioscheduler.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|solutionrelative:radioscheduler.api\\radioscheduler.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8E592-9A88-4117-BDA5-0AA2D88E6E02}|RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.infrastructure\\radioscheduler.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FE8E592-9A88-4117-BDA5-0AA2D88E6E02}|RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj|solutionrelative:radioscheduler.infrastructure\\radioscheduler.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8E592-9A88-4117-BDA5-0AA2D88E6E02}|RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.infrastructure\\persistence\\radioschedulerdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8E592-9A88-4117-BDA5-0AA2D88E6E02}|RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj|solutionrelative:radioscheduler.infrastructure\\persistence\\radioschedulerdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.api\\radioscheduler.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DF036732-433D-457A-926C-E696DD380E1A}|RadioScheduler.Api\\RadioScheduler.Api.csproj|solutionrelative:radioscheduler.api\\radioscheduler.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler\\radioscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|solutionrelative:radioscheduler\\radioscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62080335-D929-4332-A94B-45EA2266B3F5}|RadioScheduler.Domain\\RadioScheduler.Domain.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.domain\\enties\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62080335-D929-4332-A94B-45EA2266B3F5}|RadioScheduler.Domain\\RadioScheduler.Domain.csproj|solutionrelative:radioscheduler.domain\\enties\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62080335-D929-4332-A94B-45EA2266B3F5}|RadioScheduler.Domain\\RadioScheduler.Domain.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler.domain\\radioscheduler.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62080335-D929-4332-A94B-45EA2266B3F5}|RadioScheduler.Domain\\RadioScheduler.Domain.csproj|solutionrelative:radioscheduler.domain\\radioscheduler.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|solutionrelative:radioscheduler\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|solutionrelative:radioscheduler\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|c:\\users\\monika\\source\\repos\\radioscheduler\\radioscheduler\\radioscheduler.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9D4FD4D7-4F0D-4616-B071-BC711F2CA63C}|RadioScheduler\\RadioScheduler.csproj|solutionrelative:radioscheduler\\radioscheduler.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RadioScheduler.Api.http",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\RadioScheduler.Api.http",
+              "RelativeDocumentMoniker": "RadioScheduler.Api\\RadioScheduler.Api.http",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\RadioScheduler.Api.http",
+              "RelativeToolTip": "RadioScheduler.Api\\RadioScheduler.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-10T11:22:12.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowRepository .cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Infrastructure\\Repositories\\ShowRepository .cs",
+              "RelativeDocumentMoniker": "RadioScheduler.Infrastructure\\Repositories\\ShowRepository .cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Infrastructure\\Repositories\\ShowRepository .cs",
+              "RelativeToolTip": "RadioScheduler.Infrastructure\\Repositories\\ShowRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:21:17.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\Interfaces\\IShowRepository.cs",
+              "RelativeDocumentMoniker": "RadioScheduler.Application\\Interfaces\\IShowRepository.cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\Interfaces\\IShowRepository.cs",
+              "RelativeToolTip": "RadioScheduler.Application\\Interfaces\\IShowRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:19:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RadioScheduler.Api",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "RelativeDocumentMoniker": "RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "RelativeToolTip": "RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:04:14.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RadioScheduler.Application",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\RadioScheduler.Application.csproj",
+              "RelativeDocumentMoniker": "RadioScheduler.Application\\RadioScheduler.Application.csproj",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\RadioScheduler.Application.csproj",
+              "RelativeToolTip": "RadioScheduler.Application\\RadioScheduler.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:03:40.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RadioScheduler.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\Program.cs*",
+              "RelativeToolTip": "RadioScheduler.Api\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:57:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateShowCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommandHandler.cs",
+              "RelativeDocumentMoniker": "RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommandHandler.cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommandHandler.cs",
+              "RelativeToolTip": "RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:38:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateShowCommand.cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommand.cs",
+              "RelativeDocumentMoniker": "RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommand.cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommand.cs",
+              "RelativeToolTip": "RadioScheduler.Application\\Commands\\CreateShow\\CreateShowCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:37:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RadioSchedulerDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Infrastructure\\Persistence\\RadioSchedulerDbContext .cs",
+              "RelativeDocumentMoniker": "RadioScheduler.Infrastructure\\Persistence\\RadioSchedulerDbContext .cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Infrastructure\\Persistence\\RadioSchedulerDbContext .cs",
+              "RelativeToolTip": "RadioScheduler.Infrastructure\\Persistence\\RadioSchedulerDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:42:58.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RadioScheduler.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj",
+              "RelativeToolTip": "RadioScheduler.Infrastructure\\RadioScheduler.Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T10:34:51.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RadioScheduler.Api",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "RelativeDocumentMoniker": "RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "RelativeToolTip": "RadioScheduler.Api\\RadioScheduler.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T11:09:08.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RadioScheduler",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\RadioScheduler.csproj",
+              "RelativeDocumentMoniker": "RadioScheduler\\RadioScheduler.csproj",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\RadioScheduler.csproj",
+              "RelativeToolTip": "RadioScheduler\\RadioScheduler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T10:54:28.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Domain\\Enties\\Show.cs",
+              "RelativeDocumentMoniker": "RadioScheduler.Domain\\Enties\\Show.cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Domain\\Enties\\Show.cs",
+              "RelativeToolTip": "RadioScheduler.Domain\\Enties\\Show.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:34:01.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RadioScheduler.Domain",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Domain\\RadioScheduler.Domain.csproj",
+              "RelativeDocumentMoniker": "RadioScheduler.Domain\\RadioScheduler.Domain.csproj",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler.Domain\\RadioScheduler.Domain.csproj",
+              "RelativeToolTip": "RadioScheduler.Domain\\RadioScheduler.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T10:33:11.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RadioScheduler\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RadioScheduler\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T09:57:50.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RadioScheduler.http",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\RadioScheduler.http",
+              "RelativeDocumentMoniker": "RadioScheduler\\RadioScheduler.http",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\RadioScheduler.http",
+              "RelativeToolTip": "RadioScheduler\\RadioScheduler.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-10T09:57:39.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RadioScheduler\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\monika\\source\\repos\\RadioScheduler\\RadioScheduler\\WeatherForecast.cs",
+              "RelativeToolTip": "RadioScheduler\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:57:31.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

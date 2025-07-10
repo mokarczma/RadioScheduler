@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RadioScheduler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+568fe9b6a785a7f8ca3014cda6ba96154d5e8954")]
 [assembly: System.Reflection.AssemblyProductAttribute("RadioScheduler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RadioScheduler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

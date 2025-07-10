@@ -1,0 +1,33 @@
+# Etap 1: Budowanie aplikacji
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /app
+
+# Kopiujemy pliki rozwiązania i projektów
+COPY *.sln .
+COPY ShowScheduler.Api/*.csproj ./ShowScheduler.Api/
+COPY ShowScheduler.Application/*.csproj ./ShowScheduler.Application/
+COPY ShowScheduler.Domain/*.csproj ./ShowScheduler.Domain/
+COPY ShowScheduler.Infrastructure/*.csproj ./ShowScheduler.Infrastructure/
+
+# Przywracamy paczki NuGet
+RUN dotnet restore
+
+# Kopiujemy resztę plików
+COPY . .
+
+# Budujemy i publikujemy projekt API w trybie Release
+WORKDIR /app/ShowScheduler.Api
+RUN dotnet publish -c Release -o out
+
+# Etap 2: Obraz runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
+WORKDIR /app
+
+# Kopiujemy opublikowaną aplikację z poprzedniego etapu
+COPY --from=build /app/ShowScheduler.Api/out ./
+
+# Otwieramy port 80
+EXPOSE 80
+
+# Definiujemy komendę startową
+ENTRYPOINT ["dotnet", "ShowScheduler.Api.dll"]
